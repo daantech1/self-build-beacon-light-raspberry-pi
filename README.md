@@ -19,4 +19,6 @@ im working without any resistors haha
 | LED 10 | GP9 |
 | LED 11 | GP10 |
 | LED 12 | GP11 |
-<img width="277" height="636" alt="image" src="https://github.com/user-attachments/assets/6cef05e9-93ca-4599-9fbb-57b863c05c2f" />
+<img width="277" height="636" alt="image" src="https://github.com/user-attachments/assets/6cef05e9-93ca-4599-9fbb-57b863c05c2f" /> <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/33776c91-46ad-4f93-b9dd-90f5bae4d67a" /> <img width="1536" height="2048" alt="image" src="https://github.com/user-attachments/assets/b2811f04-c0b0-4b59-a2ef-26502afa2ddc" />
+
+
