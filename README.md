@@ -1,4 +1,4 @@
-# self-build-beacon-light-raspberry-pi
+# self-build-beacon-light-raspberry-pi 🚨
 in this repository you will find everything you need to build your own beacon light with leds and raspberry pi pico
 
 update coming soon with a control panel to control the beacon
